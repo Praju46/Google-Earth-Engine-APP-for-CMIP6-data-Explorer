@@ -29,7 +29,7 @@ Explore more about the dataset on [NASA's EarthData website](https://earthdata.n
 
 ### 1. Clone this repository
 bash
-git clone https://github.com/your-repo-link.git
+git clone : https://github.com/Praju46/Google-Earth-Engine-APP-for-CMIP6-data-Explorer.git
 
 
 ### 2. Open the App
